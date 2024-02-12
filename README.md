@@ -68,7 +68,7 @@ In that regard: Working with libraries such as Babylon.js or Three.js makes your
 - With this it is possible to run thousands of processes at the same time/tick (depending of your GPU Power of course)
 - Basicially there are 2 parts to form a shader in WebGL: The Vertex and the Fragment shaders
 - To get into shading checkout [The book of shaders](https://thebookofshaders.com/) or the [Shaders Basics](https://www.youtube.com/watch?v=kfM-yu0iQBk) course from [Freya Holmér](https://www.youtube.com/@acegikmo)
-- Sidenote we also use Shaders! An example can be found in the SDI Application; we do that in order to increase the performance on old devices (calulating a graph in runtime on the gpu instead of the cpu)
+- Sidenote: we also use Shaders; an example can be found in the **SDI Application**. We do that in order to increase the performance on old devices (calulating a graph in runtime on the gpu instead of the cpu)
 
 
 ---
